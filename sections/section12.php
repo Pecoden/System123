@@ -181,7 +181,7 @@
                     <div class="u-expanded-width u-list u-list-2">
                         <div class="u-repeater u-repeater-2">
                             <div onclick="show_sec1()"
-                                class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-5">
+                                class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-5">
                                 <div class="u-container-layout u-similar-container u-container-layout-8">
                                     <h6 class="u-align-right u-hover-feature u-text u-text-7">شاشة
                                         الاستقبال&nbsp;<span
@@ -191,7 +191,7 @@
                                 </div>
                             </div>
                             <div onclick="show_sec2()"
-                                class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-6">
+                                class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-6">
                                 <div class="u-container-layout u-similar-container u-container-layout-9">
                                     <h6 class="u-align-right u-hover-feature u-text u-text-8">تقارير
                                         العيادات<span
@@ -201,7 +201,7 @@
                                 </div>
                             </div>
                             <div onclick="show_sec3()"
-                                class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-7">
+                                class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-7">
                                 <div class="u-container-layout u-similar-container u-container-layout-10">
                                     <h6 class="u-align-right u-hover-feature u-text u-text-9">ادارة المرضي<span
                                             class="u-file-icon u-icon u-text-palette-1-base u-icon-3"><img
@@ -210,7 +210,7 @@
                                 </div>
                             </div>
                             <div onclick="show_sec4()"
-                                class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-8">
+                                class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-8">
                                 <div class="u-container-layout u-similar-container u-container-layout-11">
                                     <h6 class="u-align-right u-hover-feature u-text u-text-10">ادارة
                                         الحجوزات&nbsp;<span
@@ -220,7 +220,7 @@
                                 </div>
                             </div>
                             <div onclick="show_sec5()"
-                                class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-9">
+                                class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-9">
                                 <div class="u-container-layout u-similar-container u-container-layout-12">
                                     <h6 class="u-align-right u-hover-feature u-text u-text-11">ادارة
                                         المستخدمين&nbsp;<span
@@ -230,7 +230,7 @@
                                 </div>
                             </div>
                             <div onclick="show_sec6()"
-                                class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-10">
+                                class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-10">
                                 <div class="u-container-layout u-similar-container u-container-layout-13">
                                     <h6 class="u-align-right u-hover-feature u-text u-text-12">ادارة جهات
                                         التأمين&nbsp;<span
@@ -250,7 +250,7 @@
                                 </div>
                             </div>
                             <div onclick="show_sec8()"
-                                class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-12">
+                                class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-12">
                                 <div class="u-container-layout u-similar-container u-container-layout-15">
                                     <h6 class="u-align-right u-hover-feature u-text u-text-14">بيانات
                                         الادوية<span

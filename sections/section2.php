@@ -70,7 +70,7 @@
                                         <tbody class="u-align-center u-table-body">
                                             <tr style="height: 75px;">
                                                 <td
-                                                    class="u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-2-base u-table-cell-9">
+                                                    class="cursor u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-2-base u-table-cell-9">
                                                     حذف </td>
                                                 <td
                                                     class="u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-4-base u-table-cell-10">
@@ -97,7 +97,7 @@
                                             </tr>
                                             <tr style="height: 75px;">
                                                 <td
-                                                    class="u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-2-base u-table-cell-17">
+                                                    class="cursor u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-2-base u-table-cell-17">
                                                     حذف </td>
                                                 <td
                                                     class="u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-4-base u-table-cell-18">
@@ -124,10 +124,10 @@
                                             </tr>
                                             <tr style="height: 75px;">
                                                 <td
-                                                    class="u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-2-base u-table-cell-25">
+                                                    class="cursor u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-2-base u-table-cell-25">
                                                     حذف </td>
                                                 <td
-                                                    class="u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-4-base u-table-cell-26">
+                                                    class="cursor u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-4-base u-table-cell-26">
                                                     دخول</td>
                                                 <td
                                                     class="u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell">
@@ -151,10 +151,10 @@
                                             </tr>
                                             <tr style="height: 75px;">
                                                 <td
-                                                    class="u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-2-base u-table-cell-33">
+                                                    class="cursor u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-2-base u-table-cell-33">
                                                     حذف </td>
                                                 <td
-                                                    class="u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-4-base u-table-cell-34">
+                                                    class="cursor u-align-center u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell u-text-palette-4-base u-table-cell-34">
                                                     دخول</td>
                                                 <td
                                                     class="u-border-2 u-border-grey-10 u-border-no-left u-border-no-right u-table-cell">
@@ -207,7 +207,7 @@
                                     </div>
                                 </div>
                                 <div onclick="show_sec2()"
-                                    class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-2">
+                                    class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-2">
                                     <div class="u-container-layout u-similar-container u-container-layout-6">
                                         <h6 class="u-align-right u-hover-feature u-text u-text-5">تقارير
                                             العيادات<span
@@ -217,7 +217,7 @@
                                     </div>
                                 </div>
                                 <div onclick="show_sec3()"
-                                    class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-3">
+                                    class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-3">
                                     <div class="u-container-layout u-similar-container u-container-layout-7">
                                         <h6 class="u-align-right u-hover-feature u-text u-text-6">ادارة المرضي<span
                                                 class="u-file-icon u-icon u-text-palette-1-base u-icon-3"><img
@@ -226,7 +226,7 @@
                                     </div>
                                 </div>
                                 <div onclick="show_sec4()"
-                                    class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-4">
+                                    class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-4">
                                     <div class="u-container-layout u-similar-container u-container-layout-8">
                                         <h6 class="u-align-right u-hover-feature u-text u-text-7">ادارة
                                             الحجوزات&nbsp;<span
@@ -236,7 +236,7 @@
                                     </div>
                                 </div>
                                 <div onclick="show_sec5()"
-                                    class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-5">
+                                    class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-5">
                                     <div class="u-container-layout u-similar-container u-container-layout-9">
                                         <h6 class="u-align-right u-hover-feature u-text u-text-8">ادارة
                                             المستخدمين&nbsp;<span
@@ -246,7 +246,7 @@
                                     </div>
                                 </div>
                                 <div onclick="show_sec6()"
-                                    class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-6">
+                                    class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-6">
                                     <div class="u-container-layout u-similar-container u-container-layout-10">
                                         <h6 class="u-align-right u-hover-feature u-text u-text-9">ادارة جهات
                                             التأمين&nbsp;<span
@@ -256,7 +256,7 @@
                                     </div>
                                 </div>
                                 <div onclick="show_sec7()"
-                                    class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-7">
+                                    class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-7">
                                     <div class="u-container-layout u-similar-container u-container-layout-11">
                                         <h6 class="u-align-right u-hover-feature u-text u-text-10">الادارة
                                             المالية&nbsp;<span
@@ -266,7 +266,7 @@
                                     </div>
                                 </div>
                                 <div onclick="show_sec8()"
-                                    class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-8">
+                                    class="cursor u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-dark-3 u-container-align-right u-container-style u-custom-item u-hover-feature u-list-item u-repeater-item u-list-item-8">
                                     <div class="u-container-layout u-similar-container u-container-layout-12">
                                         <h6 class="u-align-right u-hover-feature u-text u-text-11">بيانات
                                             الادوية<span
